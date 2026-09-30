@@ -1,0 +1,5 @@
+music21==9.1.0
+numpy>=1.23
+tensorflow>=2.13
+h5py>=3.9
+tqdm>=4.66
